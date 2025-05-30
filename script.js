@@ -213,7 +213,7 @@ const certifications = [
     publisher: "Balai Diklat Industri Padang",
     credentialId: "27074/BPSDMI/KEMASAN-PANGAN/VI/2023",
     date: "Juni 2023",
-    skills: ["Graphic Design", "Canva"],
+    skills: ["Graphic Design", "Canva", "Product Packaging Design"],
     imageSrc: "img/Certif7.jpg" // GANTI DENGAN PATH GAMBAR ANDA
   },
   {
