@@ -71,6 +71,7 @@ const experiences = [
       "Bekerja sama dengan tim produksi untuk memastikan kualitas cetak dan finishing spanduk."
     ],
     imageSrcs: [
+      "img/experience/cv-wali-printing/intern_certificate.jpg",
       "img/experience/cv-wali-printing/intern_smk1.jpg",
       "img/experience/cv-wali-printing/intern_smk2.jpg",
       "img/experience/cv-wali-printing/intern_smk3.jpg",
