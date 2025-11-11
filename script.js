@@ -2,7 +2,7 @@ const experiences = [
   {
     title: "Graphic Designer (Intern)",
     company: "Seragamin - Batam",
-    period: "Agustus 2025",
+    period: "Agustus 2025 – Sekarang",
     details: [
       "Mengubah permintaan atau ide pelanggan terkait desain seragam kasual dan merchandise menjadi desain visual yang siap diproduksi.",
       "Membuat dan mencetak mockup desain untuk mendapatkan persetujuan pelanggan sebelum masuk ke tahap produksi.",
